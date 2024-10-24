@@ -1,1 +1,3 @@
 This is File B for testing.
+New change for 1.
+New change for 2.

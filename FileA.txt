@@ -1,1 +1,2 @@
 This is File A.
+New change for 2.
